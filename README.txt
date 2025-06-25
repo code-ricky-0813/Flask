@@ -1,4 +1,4 @@
-# Flask 留言板 + RESTful API 專案
+#Flask 留言板 + RESTful API 專案
 
 這是一個使用 Flask 製作的簡易留言板應用程式，支援表單送出留言、顯示所有留言，並提供 RESTful API 接口，可從 `/api/messages` 取得所有留言資料（JSON 格式）。
 
